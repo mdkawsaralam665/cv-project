@@ -1,0 +1,163 @@
+* {
+    margin: 0 auto;
+}
+
+body {
+    background-color: #eee;
+}
+
+
+/*---start contenan---*/
+
+.contenar {
+    width: 1000px;
+    background-color: #60c360;
+    margin: 0 auto;
+    padding: 10px;
+}
+
+
+/*---End contenan---*/
+
+
+/*---start profile---*/
+
+.profle-img {
+    width: 100px;
+    border: solid white 3px;
+    border-radius: 50%;
+    float: left;
+}
+
+
+/*---end profile---*/
+
+
+/*--- start headr bio---*/
+
+.header-bio {
+    float: left;
+    padding: 20px;
+    /*--- end headr bio---*/
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    color: #847917
+}
+
+
+/*--- start headr contract---*/
+
+.header-contract {
+    float: right;
+    padding: 20px;
+}
+
+.header-contract a {
+    text-decoration: none;
+    padding: 10px;
+    font-weight: bold;
+}
+
+.header-contract a:hover {
+    text-decoration: underline;
+    color: tomato;
+}
+
+
+/*--- end headr contract---*/
+
+
+/*--- start div clear---*/
+
+.div-clear {
+    clear: both;
+}
+
+
+/*---  end div clear---*/
+
+
+/*--- start hr---*/
+
+hr {
+    border: solid black 3px;
+    width: 100%;
+    margin: 20px auto;
+    border-bottom: none;
+}
+
+
+/*--- start parsonal information---*/
+
+.personal-section {}
+
+.contant {
+    padding: 2px;
+}
+
+.left-div {
+    width: 30%;
+    float: left;
+}
+
+.right-div {
+    width: 70%;
+    float: left;
+}
+
+
+/*--- end parsonal information---*/
+
+
+/*--start  common hr---*/
+
+.common-hr {
+    border: 1px solid black;
+    width: 100%;
+    margin: 20px auto;
+    border-bottom: none;
+}
+
+
+/*--End  common hr---*/
+
+
+/*-- start refarence---*/
+
+.edu-ref-left {
+    float: left;
+    width: 45%;
+}
+
+.edu-ref-right {
+    float: left;
+}
+
+
+/*-- end refarence---*/
+
+
+/*-- start bottom---*/
+
+.bottom-contenar {
+    background-color: black;
+    text-align: center;
+    padding: 10px;
+}
+
+.bottom-contenar a {
+    color: white;
+    text-decoration: none;
+    margin: 20px;
+}
+
+.bottom-contenar p {
+    color: white;
+    margin-top: 20px;
+}
